@@ -1,7 +1,7 @@
 # Hi, I'm Shreeya Pathak 👋
 
 🎓 M.S. Business Analytics | Kent State University (May 2026) | GPA: 3.9
-📍 Kent, Ohio | Open to Relocation
+📍 Kent, Ohio 
 📊 Data Analyst | SQL • Python • Power BI • Tableau • R
 
 ## 🔍 About Me
