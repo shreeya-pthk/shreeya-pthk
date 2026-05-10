@@ -14,12 +14,6 @@ Passionate about turning raw data into decisions that matter.
 - **Methods:** EDA | Predictive Modeling | A/B Testing
 - **Tools:** Jira | MySQL | Git | Azure DevOps
 
-## 📂 Featured Projects
-| Project | Tools | Description |
-|---------|-------|-------------|
-| [Sense of Belonging Dashboard](#) | Power BI, DAX, Excel | KSU student engagement analytics platform |
-| [Blinkit Sales Analytics](#) | Power BI, SQL, DAX | Retail revenue & profitability dashboard |
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shreeyapathak2025@gmail.com)
