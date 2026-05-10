@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shreeya Pathak 👋
 
-<!--
-**shreeya-pthk/shreeya-pthk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. Business Analytics | Kent State University (May 2026) | GPA: 3.9
+📍 Kent, Ohio | Open to Relocation
+📊 Data Analyst | SQL • Python • Power BI • Tableau • R
 
-Here are some ideas to get you started:
+## 🔍 About Me
+Results-driven Data Analyst with 2+ years of experience transforming complex datasets into executive-ready insights. 
+Passionate about turning raw data into decisions that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** SQL | Python | R
+- **BI Tools:** Power BI | Tableau | Excel
+- **Methods:** EDA | Predictive Modeling | A/B Testing
+- **Tools:** Jira | MySQL | Git | Azure DevOps
+
+## 📂 Featured Projects
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Sense of Belonging Dashboard](#) | Power BI, DAX, Excel | KSU student engagement analytics platform |
+| [Blinkit Sales Analytics](#) | Power BI, SQL, DAX | Retail revenue & profitability dashboard |
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shreeyapathak2025@gmail.com)
