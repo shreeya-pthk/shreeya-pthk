@@ -38,10 +38,4 @@ Recently recognized with the **KSU Creative Innovator Award** for building the u
 
 ---
 
-## GitHub stats
-
-![Shreeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeya-pthk&show_icons=true&theme=default&hide=issues&count_private=true)
-
----
-
 *Open to full-time Data Analyst, BI Analyst, and Analytics Engineer roles — let's connect!*
