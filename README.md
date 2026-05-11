@@ -17,5 +17,5 @@ Passionate about turning raw data into decisions that matter.
 - **Tools:** Jira | MySQL | Git | Azure DevOps
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shreeyapathak)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shreeyapathak2025@gmail.com)
