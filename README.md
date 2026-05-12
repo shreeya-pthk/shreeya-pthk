@@ -10,7 +10,7 @@
 
 ## About me
 
-M.S. Business Analytics graduate from Kent State University (GPA 3.9) with 2 years of experience turning complex datasets into executive-ready insights. I build end-to-end analytics solutions — from ETL pipelines and SQL queries to machine learning models and Power BI dashboards.
+M.S. Business Analytics graduate from Kent State University (GPA 3.9) with 2 years of experience turning complex datasets into executive-ready insights. I build end-to-end analytics solutions from ETL pipelines and SQL queries to machine learning models and Power BI dashboards.
 
 Recently recognized with the **KSU Creative Innovator Award** for building the university's first multi-year student analytics platform.
 
