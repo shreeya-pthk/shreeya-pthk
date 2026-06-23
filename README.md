@@ -2,7 +2,7 @@
 
 **Data Analyst** | SQL · Python · Power BI · Tableau · Machine Learning
 
-📍 Kent, Ohio — Open to Relocation  |  ✅ F-1 STEM OPT (3 yrs, no sponsorship needed)
+📍 Kent, Ohio — Open to Relocation  
 
 📧 shreeyapathak2025@gmail.com  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-shreeyapathak-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreeyapathak)
 
@@ -10,7 +10,7 @@
 
 ## About me
 
-M.S. Business Analytics graduate from Kent State University (GPA 3.9) with 2 years of experience turning complex datasets into executive-ready insights. I build end-to-end analytics solutions from ETL pipelines and SQL queries to machine learning models and Power BI dashboards.
+M.S. Business Analytics graduate from Kent State University (GPA 3.9) with almost 2 years of experience turning complex datasets into executive-ready insights. I build end-to-end analytics solutions from ETL pipelines and SQL queries to machine learning models and Power BI dashboards.
 
 Recently recognized with the **KSU Creative Innovator Award** for building the university's first multi-year student analytics platform.
 
