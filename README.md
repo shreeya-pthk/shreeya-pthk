@@ -23,7 +23,8 @@ Recently recognized with the **KSU Creative Innovator Award** for building the u
 | 🏦 [Loan Default & Loss Prediction](https://github.com/shreeya-pthk/loan-default-prediction) | R · Random Forest · XGBoost | MAE 5.23 · Recall 60.95% on 80K loans |
 | 📊 [Sense of Belonging Dashboard](https://github.com/shreeya-pthk/sense-of-belonging-dashboard) | Power BI · DAX · Power Query | 6,000+ records · 40% less manual prep · KSU Award 🏆 |
 | 📈 [Power BI Portfolio](https://github.com/shreeya-pthk/power-bi-portfolio) | Power BI · SQL · Excel | Multi-domain BI dashboards |
-| 🛍️ [Data Analyst Portfolio](https://github.com/shreeya-pthk/ customer-shopping-behavior-analysis) |Python · SQL · Power BI | End-to-end data analytics project |
+
+| 🛍️ [Data Analyst Portfolio](https://github.com/shreeya-pthk/customer-shopping-behavior-analysis) |Python · SQL · Power BI | End-to-end data analytics project |
 
 ---
 
